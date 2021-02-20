@@ -1,2 +1,2 @@
 ## Hackathon and Competition Projects
-* Here are some Hackathon and Competition Projects that got selected for it's desired Output.
+* Here are some Hackathon and Competition Projects that got selected on basis of their desired Outputs and constraints.
